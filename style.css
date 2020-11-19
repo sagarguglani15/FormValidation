@@ -1,0 +1,47 @@
+* {
+  background-color: #ffcd94;
+}
+input {
+  background-color: #ffe0bd;
+}
+
+span {
+  color: #660066;
+  font-weight: bolder;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+  font-style: italic;
+  color: blue;
+}
+
+input {
+  padding: 5px;
+}
+
+select {
+  background-color: #330000;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 2px;
+}
+
+option {
+  background-color: #994c00;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 2px;
+}
+
+button {
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  margin-left: 30%;
+  cursor: pointer;
+}
